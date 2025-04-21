@@ -62,7 +62,7 @@ export default function Contact() {
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
               <a
-                href="https://github.com/yourusername/free-apis/issues"
+                href="https://github.com/habitual69/free-apis/issues"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center px-6 py-3 bg-dark border border-accent/20 rounded-lg text-white hover:bg-dark-lighter transition-colors"
@@ -72,7 +72,7 @@ export default function Contact() {
                 <ExternalLink className="h-4 w-4 ml-2 text-gray-400" />
               </a>
               <a
-                href="mailto:your.email@example.com"
+                href="mailto:admin@vpms.xyz"
                 className="flex items-center justify-center px-6 py-3 bg-dark border border-accent/20 rounded-lg text-white hover:bg-dark-lighter transition-colors"
               >
                 <Mail className="h-5 w-5 mr-2 text-accent" />
@@ -112,7 +112,7 @@ export default function Contact() {
             </div>
             <div className="flex space-x-4">
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/habitual69"
                 className="text-gray-400 hover:text-accent transition-colors"
               >
                 <Github className="h-5 w-5" />
