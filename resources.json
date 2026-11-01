@@ -1,5 +1,5 @@
 {
-"count": 1467,
+"count": 1468,
 "entries": [
     {
         "API": "Cat Facts",
@@ -9196,6 +9196,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://akshaykumar-rest.vercel.app/",
+        "Category": "Personality"
+    },
+    {
+        "API": "Bucketlist.nl Dream of the Day",
+        "Description": "One daily travel or life-experience idea in Dutch JSON",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://bucketlist.nl/brand/droom-van-de-dag.openapi.json",
         "Category": "Personality"
     },
     {
